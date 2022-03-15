@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: url("../img/bg.jpg");
+	background-size: cover;
+}
+
+.top{
+
+}
+
+.wrapper{
+	width: 70%;
+	margin: 0 auto;
+}
+
+nav{
+	float: right;
+}
+
+nav ul{
+	display: float;
+	list-style: none;
+}
+
+nav ul li{
+	float: left;
+	padding: 60px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: black;
+	font-size: 30px;
+	font-family: Ariel;
+	background: #fff;
+}
